@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<style>
+	h1
+	text-colour: red;
+
+</style>
 <html>
 <head>
 	This is my Github Page
