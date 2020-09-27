@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<style>
+<style type="text/css">
 	h1 {
-	colour: red;
+	color: red;
 	}
-
+	p {
+	position: center;
+	}
 </style>
 <html>
 <head>
