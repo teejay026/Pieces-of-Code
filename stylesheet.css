@@ -70,11 +70,10 @@ div
     width: 50%;
     height: 50px;
     margin: 50px auto;
-    padding: 1px;
     color: black;
     text-align: center;
     font-family: 'Anson', sans-serif;
-    justify-content: center;
+    vertical-align: middle;
 }
 
 #top 
