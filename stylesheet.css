@@ -71,6 +71,8 @@ div
     height: 50px;
     margin: 50px auto;
     color: black;
+    text-align: center;
+    font-family: 'Anson', sans-serif;
 }
 
 #top 
