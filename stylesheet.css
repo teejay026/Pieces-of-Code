@@ -9,9 +9,9 @@ html
 }
 h1 
 {
-    color: #FF007F;
+    color: #fa0680;
     position: relative;
-    text-shadow: 5px 5px 5px pink;
+    text-shadow: 5px 5px 5px rgb(175, 13, 108);
     font-size: 70px;
     font-family: 'Anton', sans-serif;
     text-align: center;
@@ -36,8 +36,6 @@ body
     float: left;
     width: 30%;
     text-align: center;
-    background-color: black;
-    border-radius: 30%;
 }
 
 #right 
@@ -45,8 +43,6 @@ body
     float: right;
     width: 30%;
     text-align: center;
-    background-color: rgb(255, 255, 255);
-    border-radius: 30%;
 }
 
 section, aside 
