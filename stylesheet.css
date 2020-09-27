@@ -67,6 +67,7 @@ aside:hover
 
 div 
 {
+    position: relative;
     width: 50%;
     height: 50px;
     margin: 50px auto;
@@ -74,7 +75,7 @@ div
     text-align: center;
     font-family: 'Anson', sans-serif;
     vertical-align: middle;
-    display: table;
+    display: table-cell;
 }
 
 #top 
