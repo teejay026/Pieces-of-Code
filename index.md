@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <style>
 	h1
-	text-colour: red;
+	colour: red;
 
 </style>
 <html>
 <head>
-	This is my Github Page
+	Sticky Space
 </head>
 <body>
 <h1>Hello World</h1>
