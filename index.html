@@ -17,6 +17,6 @@
 	<aside id="right">
 		<h2><a href="https://www.redbubble.com/shop/?iaCode=all-stickers&query=cat&ref=search_box" target=_blank>Cat Stickers</a></h2>
 	</aside>
-	<div id="top">Can you stop judging my ugly design plz I'm trying ok</div>
+	<div id="top" class="heart">Can you stop judging my ugly design plz I'm trying ok</div>
 </body>
 </html>
