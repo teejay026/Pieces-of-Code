@@ -3,10 +3,17 @@
 <html>
 	<head>
 	<style type="text/css">
+	html{
+	background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	}
 	h1 {
-	color: pink;
+	color: #FF007F;
 	position: relative;
-	text-shadow: 5px 5px 5px #FF69B4;
+	text-shadow: 5px 5px 5px pink;
 	font-size: 70px;
 	text-align: center;
 	}
@@ -20,36 +27,47 @@
 	}
 	
 	body {
-	background-color: black;
-	margin: 0px;
+	margin: auto;
 	}
 	
 	#left {
 	float: left;
-	width: 40%;
+	width: 20%;
+	text-align: center;
+	color: black;
 	}
 	
 	#right {
 	float: right;
-	width: 40%;
+	width: 20%;
+	text-align: center;
+	color: black;
 	}
+	
 	section, aside {
-	padding: 3px;
-	background-color: white;
+	position: auto;
+	padding: 15px 15px 15px 15px
+	border-color: pink;
+	height: 30px;
+	width: 30px;
+	left: 30px;
+	right: 30px;
 	}
+	
 	
 </style>
 </head>
-<title> Sticky Space </title>
+<title> Sticker Space </title>
 <body>
-<h1>Welcome to Sticky Space</h1>
-<p>Sticky Space is your source of cool sticker designs. 
+<h1>Welcome to Sticker Space</h1>
+<p>Sticker Space is your source of cool sticker designs. 
 Get browsing and find something awesome!</p>
 	<section id="left">
 		<h2>Space Stickers</h2>
 	</section>
 	<aside id="right">
-		<h3>Cat Stickers</h3>
+		<h2>Cat Stickers</h2>
 	</aside>
+
 </body>
 </html>
