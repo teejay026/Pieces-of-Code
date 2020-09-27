@@ -48,7 +48,7 @@
 	
 	section, aside {
 	position: auto;
-	padding: 1px 1px 1px 1px
+	padding: 1px 1px 1px 1px;
 	height: 30px;
 	width: 30px;
 	left: 30px;
