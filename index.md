@@ -3,6 +3,7 @@
 <html>
 	<head>
 	<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen">
+	<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
 </head>
 <title> Sticker Space </title>
 <body>
