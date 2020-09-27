@@ -36,6 +36,7 @@ body
     float: left;
     width: 30%;
     text-align: center;
+    vertical-align: middle;
 }
 
 #right 
@@ -43,6 +44,7 @@ body
     float: right;
     width: 30%;
     text-align: center;
+    vertical-align: middle;
 }
 
 section, aside 
