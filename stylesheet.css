@@ -74,6 +74,7 @@ div
     color: black;
     text-align: center;
     font-family: 'Anson', sans-serif;
+    justify-content: center;
 }
 
 #top 
