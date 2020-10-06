@@ -30,6 +30,7 @@ p
 body 
 {
     margin: auto;
+    overflow-x: hidden !important;
 }
 
 footer
