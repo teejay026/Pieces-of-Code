@@ -7,9 +7,10 @@
 	</head>
 
 <title> Sticker Space </title>
-
-<body>
+<header>
 <h1>Welcome to Sticker Space</h1>
+</header>
+<main>
 <p>Sticker Space is your source of cool sticker designs.<br>Get browsing and find something awesome!</p>
 	<section id="left">
 		<h2><a href="https://www.redbubble.com/shop/?iaCode=all-stickers&query=space" target=_blank>Space Stickers</a></h2>
@@ -18,5 +19,8 @@
 		<h2><a href="https://www.redbubble.com/shop/?iaCode=all-stickers&query=cat&ref=search_box" target=_blank>Cat Stickers</a></h2>
 	</aside>
 	<div class="heart"></div>
-</body>
+</main>
+<footer>
+<p>Made poorly with Github</p>
+</footer>
 </html>
