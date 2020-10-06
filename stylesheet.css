@@ -97,7 +97,7 @@ div
 }
 
 .heart
-{   position: absolute;
+{   position: relative;
     margin: auto;
     top: 60%;
     right: 40%;
@@ -134,7 +134,8 @@ div
     left: 0px;
 }
 
-@keyframes beat {
+@keyframes beat 
+{
     0% { 
         transform: scale(1) rotate(-45deg);
     }
