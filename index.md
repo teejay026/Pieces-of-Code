@@ -21,6 +21,6 @@
 	</aside>
 	<div class="heart"></div>
 </main>
-<footer></footer>
+<footer>Made very poorly by some chick learning HTML</footer>
 </body>
 </html>
