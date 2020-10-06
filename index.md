@@ -7,6 +7,7 @@
 	</head>
 
 <title> Sticker Space </title>
+
 <body>
 <header>
 <h1>Welcome to Sticker Space</h1>
