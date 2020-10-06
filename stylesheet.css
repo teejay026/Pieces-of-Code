@@ -104,7 +104,7 @@ div
 }
 
 .heart
-{   position: relative;
+{   position: absolute;
     margin: auto;
     top: 60%;
     right: 40%;
