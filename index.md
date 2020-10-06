@@ -7,6 +7,7 @@
 	</head>
 
 <title> Sticker Space </title>
+<body>
 <header>
 <h1>Welcome to Sticker Space</h1>
 </header>
@@ -23,4 +24,5 @@
 <footer>
 <p>Made poorly with Github</p>
 </footer>
+</body>
 </html>
