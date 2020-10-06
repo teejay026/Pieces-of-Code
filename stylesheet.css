@@ -34,7 +34,8 @@ body
 
 footer
 {
-    text-align: centre; 
+    text-align: center; 
+    position: relative;
 }
 
 #left 
