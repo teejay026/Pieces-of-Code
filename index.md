@@ -21,8 +21,6 @@
 	</aside>
 	<div class="heart"></div>
 </main>
-<footer>
-<p>Made poorly with Github</p>
-</footer>
+<footer></footer>
 </body>
 </html>
