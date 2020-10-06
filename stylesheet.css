@@ -34,7 +34,7 @@ body
 
 footer
 {
-    text-align: centre;
+    text-align: centre; 
 }
 
 #left 
@@ -43,6 +43,7 @@ footer
     width: 35%;
     text-align: center;
     vertical-align: middle;
+    overflow: hidden;
 }
 
 #right 
@@ -51,6 +52,7 @@ footer
     width: 35%;
     text-align: center;
     vertical-align: middle;
+    overflow: hidden;
 }
 
 section 
