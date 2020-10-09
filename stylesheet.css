@@ -185,6 +185,7 @@ div
 .chonky
 {
     background-color: seagreen;
+    justify-self: center;
 }
 
 .container
@@ -197,6 +198,6 @@ div
     display: grid;
     grid-template-rows: 45px 45px 45px;
     font-size: 40px ;
-    text-align: center;
+    justify-self: center;
 }
 
