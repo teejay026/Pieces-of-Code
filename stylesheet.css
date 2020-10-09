@@ -59,7 +59,7 @@ footer
 section 
 {
     position: auto;
-    padding: 0.5px 0.5px;
+    padding: 2px 2px;
     height: 20px;
     width: 20px;
 
@@ -67,8 +67,8 @@ section
 
 aside
 {
-    position: relative;
-    padding: 0.5px 0.5px;
+    position: auto;
+    padding: 2px 2px;
     height: 20px;
     width: 20px;
 
