@@ -158,6 +158,7 @@ div
 {   
     background-color: violet;
     height: 100px;
+    display: flex;
     flex-grow: 1;
 }
 
@@ -165,5 +166,6 @@ div
 {
     background-color: steelblue;
     height: 100px;
+    display: flex;
     flex-grow: 1;
 }
