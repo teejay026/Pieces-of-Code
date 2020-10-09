@@ -177,13 +177,9 @@ div
 .container
 {
     font-size: medium;
-    padding: 2px 2px;
-    margin: 2px auto;
-    top: 50%;
-    width: 50%;
+    width: 50px;
     background: gold;
     display: grid;
-    grid-template-columns: auto;
     text-align: center;
     text-justify: auto;
 }
