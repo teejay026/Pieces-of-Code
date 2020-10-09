@@ -173,33 +173,3 @@ div
     display: flex;
     flex-grow: 1;
 }
-
-.persian
-{
-    background-color: turquoise;
-    justify-self: center;
-}
-.fluffy
-{
-    background-color: yellow;
-    justify-self: center;
-}
-.chonky
-{
-    background-color: seagreen;
-    justify-self: center;
-}
-
-.container
-{
-    font-size: medium;
-    position: relative;
-    top: 305px;
-    width: 40%;
-    background: gold;
-    display: grid;
-    grid-template-rows: 45px 45px 45px;
-    font-size: 40px ;
-    justify-self: center;
-}
-
