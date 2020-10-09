@@ -195,8 +195,8 @@ div
     width: 40%;
     background: gold;
     display: grid;
-    grid-template-rows: auto;
-    font-size: 40px;
+    grid-template-rows: 45px 45px 45px;
+    font-size: 40px ;
     text-align: center;
 }
 
