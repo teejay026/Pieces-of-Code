@@ -174,17 +174,6 @@ div
     flex-grow: 1;
 }
 
-.container
-{
-    font-size: medium;
-    position: relative;
-    top: 305px;
-    width: 40%;
-    background: gold;
-    display: grid;
-    text-align: center;
-}
-
 .persian
 {
     background-color: turquoise;
@@ -197,3 +186,16 @@ div
 {
     background-color: seagreen;
 }
+
+.container
+{
+    font-size: medium;
+    position: relative;
+    top: 305px;
+    width: 40%;
+    background: gold;
+    display: grid;
+    grid-template-rows: auto;
+    text-align: center;
+}
+
