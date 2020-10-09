@@ -153,3 +153,17 @@ div
     display: flex;
     flex-direction: column;
 }
+
+#pink
+{   
+    background-color: violet;
+    height: 100px;
+    flex-wrap: wrap;
+}
+
+#blue
+{
+    background-color: steelblue;
+    height: 100px;
+    flex-wrap: wrap;
+}
