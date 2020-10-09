@@ -147,3 +147,9 @@ div
         transform: scale(0.6) rotate(-45deg);
     }
 }
+
+#flex
+{
+    display: flex;
+    flex-direction: column;
+}
