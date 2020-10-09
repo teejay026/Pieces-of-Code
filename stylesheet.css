@@ -180,6 +180,7 @@ div
     width: 50%;
     background: gold;
     display: grid;
+    grid-template-columns: auto;
 }
 
 .persian
