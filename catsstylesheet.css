@@ -34,8 +34,7 @@ body
 {
     font-size: medium;
     position: relative;
-    top: 305px;
-    width: 40%;
+    width: 100%;
     background: gold;
     display: grid;
     grid-template-rows: 45px 45px 45px;
