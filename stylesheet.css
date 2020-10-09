@@ -173,3 +173,26 @@ div
     display: flex;
     flex-grow: 1;
 }
+
+.container
+{
+    font-size: medium;
+    width: 50%;
+    background: gold;
+    display: grid;
+}
+
+.persian
+{
+    background-color: turquoise;
+}
+
+.fluffy
+{
+    background-color: yellow;
+}
+
+.chonky
+{
+    background-color: seagreen;
+}
