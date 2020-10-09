@@ -177,10 +177,12 @@ div
 .persian
 {
     background-color: turquoise;
+    justify-self: center;
 }
 .fluffy
 {
     background-color: yellow;
+    justify-self: center;
 }
 .chonky
 {
