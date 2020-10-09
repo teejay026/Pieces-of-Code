@@ -1,3 +1,4 @@
+
 html 
 {
     background-color: black;
@@ -7,6 +8,12 @@ html
     height: 100%;
     margin: auto;
 }
+
+body
+{
+    margin: auto;
+}
+
 .persian
 {
     background-color: turquoise;
