@@ -177,6 +177,7 @@ div
 .container
 {
     font-size: medium;
+    padding: 2px 2px;
     top: 50%;
     width: 50%;
     background: gold;
