@@ -177,10 +177,12 @@ div
 .container
 {
     font-size: medium;
+    top: 50%;
     width: 50%;
     background: gold;
     display: grid;
     grid-template-columns: auto;
+    text-align: center;
 }
 
 .persian
