@@ -177,23 +177,20 @@ div
 .container
 {
     font-size: medium;
-    width: 50px;
+    width: 40%;
     background: gold;
     display: grid;
     text-align: center;
-    text-justify: auto;
 }
 
 .persian
 {
     background-color: turquoise;
 }
-
 .fluffy
 {
     background-color: yellow;
 }
-
 .chonky
 {
     background-color: seagreen;
