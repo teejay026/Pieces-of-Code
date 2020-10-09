@@ -157,6 +157,7 @@ div
 #pink
 {   
     background-color: violet;
+    position: relative;
     height: 100px;
     display: flex;
     flex-grow: 1;
@@ -165,6 +166,7 @@ div
 #blue
 {
     background-color: steelblue;
+    position: relative;
     height: 100px;
     display: flex;
     flex-grow: 1;
