@@ -40,4 +40,5 @@ body
     grid-template-rows: 45px 45px 45px;
     font-size: 40px ;
     justify-self: center;
+    text-align: center;
 }
