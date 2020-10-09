@@ -43,7 +43,7 @@ footer
 #left 
 {
     float: left;
-    width: 25%;
+    width: 15%;
     text-align: center;
     vertical-align: middle;
 }
@@ -51,7 +51,7 @@ footer
 #right 
 {
     float: right;
-    width: 25%;
+    width: 15%;
     text-align: center;
     vertical-align: middle;
 }
