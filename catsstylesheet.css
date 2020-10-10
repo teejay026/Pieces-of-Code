@@ -18,18 +18,24 @@ body
 {
     background-color: turquoise;
     grid-area: content1;
+    width: 100%;
+    height: auto;
     
 }
 .fluffy
 {
     background-color: yellow;
     grid-area: content2;
+    width: 100%;
+    height: auto;
     
 }
 .chonky
 {
     background-color: seagreen;
     grid-area: content3;
+    width: 100%;
+    height: auto;
    
 }
 
