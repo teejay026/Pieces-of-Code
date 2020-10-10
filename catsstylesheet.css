@@ -17,16 +17,19 @@ body
 .persian
 {
     background-color: turquoise;
+    grid-area: content;
     
 }
 .fluffy
 {
     background-color: yellow;
+    grid-area: content;
     
 }
 .chonky
 {
     background-color: seagreen;
+    grid-area: content;
    
 }
 
