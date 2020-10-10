@@ -41,6 +41,12 @@ body
    
 }
 
+.four
+{
+    grid-area: content4;
+    width: 100%;
+    height: auto;
+}
 .header/
 { 
     grid-area: header;
@@ -58,10 +64,10 @@ body
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
-    "header header header header"
     "content1 content2 content3 content4"
     "content5 content6 content7 content8"
-    "content9 content10 content11 content12";
+    "content9 content10 content11 content12"
+    "footer footer footer footer";
     justify-items: center;
     text-align: center;
 }
