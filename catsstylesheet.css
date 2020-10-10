@@ -16,7 +16,6 @@ body
 
 .persian
 {
-    background-color: turquoise;
     grid-area: content1;
     width: 100%;
     height: auto;
@@ -49,10 +48,10 @@ body
 
 .container
 {
+    color: blanchedalmond;
     font-size: medium;
     position: relative;
     width: 100%;
-    background: gold;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
