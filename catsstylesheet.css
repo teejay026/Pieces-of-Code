@@ -39,6 +39,11 @@ body
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+    "header . . ."
+    "content content content content"
+    "content content content content"
+    "content content content content";
     font-size: 40px ;
     justify-self: center;
     text-align: center;
