@@ -39,6 +39,14 @@ body
    
 }
 
+.header
+{
+    background-color: gold; 
+    grid-area: header;
+    width: 100%;
+    height: auto;
+}
+
 .container
 {
     font-size: medium;
