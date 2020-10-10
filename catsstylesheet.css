@@ -9,6 +9,10 @@ html
     margin: auto;
 }
 
+h1
+{
+    color: white;
+}
 body
 {
     margin: auto;
