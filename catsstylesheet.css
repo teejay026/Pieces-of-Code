@@ -37,7 +37,8 @@ body
     width: 100%;
     background: gold;
     display: grid;
-    grid-template-rows: 50px 50px px;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     font-size: 40px ;
     justify-self: center;
     text-align: center;
