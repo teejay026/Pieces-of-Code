@@ -102,7 +102,7 @@ div
     border-radius: 30%;
 }
 
-.heart
+/*.heart
 {   position: absolute;
     margin: auto;
     top: 70%;
@@ -150,11 +150,11 @@ div
     }
 }
 
-#flex/
+#flex
 {
     display: flex;
     flex-direction: column;
-}
+}*/
 
 #pink
 {   
