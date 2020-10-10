@@ -23,7 +23,6 @@ body
 }
 .fluffy
 {
-    background-color: yellow;
     grid-area: content2;
     width: 100%;
     height: auto;
@@ -31,7 +30,6 @@ body
 }
 .chonky
 {
-    background-color: seagreen;
     grid-area: content3;
     width: 100%;
     height: auto;
@@ -43,7 +41,7 @@ body
     background-color: gold; 
     grid-area: header;
     width: 100%;
-    height: auto;
+    height: 30px;
 }
 
 .container
@@ -60,7 +58,6 @@ body
     "content1 content2 content3 content4"
     "content5 content6 content7 content8"
     "content9 content10 content11 content12";
-    font-size: 40px ;
     justify-items: center;
     text-align: center;
 }
