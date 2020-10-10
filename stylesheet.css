@@ -1,7 +1,7 @@
 
 html 
 {
-    background: whitesmoke;
+    background: black;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -20,7 +20,7 @@ h1
 
 p 
 {
-    color: rgb(0, 0, 0);
+    color: whitesmoke;
     font-size: 40px;
     font-style: italic;
     position: relative;
@@ -34,6 +34,7 @@ body
 
 footer
 {
+    color: whitesmoke;
     text-align: center; 
     position: relative;
     top: 100px;
