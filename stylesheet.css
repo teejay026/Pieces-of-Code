@@ -28,6 +28,12 @@ p
     text-align: center;
 }
 
+a
+{
+    color: #e7eeec;
+    text-decoration: inherit;
+}
+
 body 
 {
     margin: auto;
@@ -275,7 +281,7 @@ div
 {
     color: #e7eeec;
     border-color: #e7eeec;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Cairo', sans-serif;
     position: relative;
     left: 25%;
@@ -320,7 +326,7 @@ div
 
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 20ox;
     width: 50px;
     text-align: center;
     text-decoration: none;
@@ -328,6 +334,7 @@ div
 
   .fa-facebook {
     background: #3B5998;
+    
     color: white;
     grid-area: content14;
   }
