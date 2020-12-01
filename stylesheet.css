@@ -281,40 +281,40 @@ div
     left: 25%;
     width: 50%;
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-areas:
-    "content1 content2 content3 content4"
-    "content5 content6 content7 content8 content9";
+    "content1 content2 content3 content4 content10 content11" 
+    "content12 content13 content14 content15 content16 content17";
     justify-items: center;
     text-align: center;
 }
 
 .about
 {
-    grid-area: content1;
-    width: 50%;
+    grid-area: content2;
+    width: 100%;
     height: auto;
 }
 
 .faq
 {
-    grid-area: content2;
-    width: 50%;
+    grid-area: content3;
+    width: 100%;
     height: auto;
 }
 
 .pricing
 {
-    grid-area: content3;
-    width: 50%;
+    grid-area: content4;
+    width: 100%;
     height: auto;
 }
 
 .contact
 {
-    grid-area: content4;
-    width: 50%;
+    grid-area: content10;
+    width: 100%;
     height: auto;
 }
 
@@ -329,17 +329,11 @@ div
   .fa-facebook {
     background: #3B5998;
     color: white;
-    grid-area: content6;
+    grid-area: content14;
   }
 
   .fa-twitter {
     background: #55ACEE;
     color: white;
-    grid-area: content7;
-  }
-
-  .fa-instragram {
-    background: #a955ee;
-    color: white;
-    grid-area: content8;
+    grid-area: content15;
   }
