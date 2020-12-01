@@ -194,6 +194,27 @@ div
     text-align: center;
 }
 
+.freespace
+{
+    grid-area: content1;
+    width: 100%;
+    height: auto;
+}
+
+.empty1
+{
+    grid-area: content5;
+    width: 100%;
+    height: auto;
+}
+
+.empty2
+{
+    grid-area: content9;
+    width: 100%;
+    height: auto;
+}
+
 .artportfolio
 {
     grid-area: content2;
