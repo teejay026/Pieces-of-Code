@@ -8,12 +8,13 @@ html
     height: 100%;
     margin: auto;
 }
+
 h1 
 {
     color: #e7eeec;
     position: relative;
     font-size: 70px;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Cairo', sans-serif;
     text-align: center;
 }
 
@@ -22,6 +23,7 @@ p
     color: #e7eeec;
     font-size: 40px;
     font-style: italic;
+    font-family: 'Cairo', sans-serif;
     position: relative;
     text-align: center;
 }
@@ -35,12 +37,13 @@ footer
 {
     color: #e7eeec;
     text-align: center; 
+    font-family: 'Cairo', sans-serif;
     position: relative;
-    top: 100px;
+    bottom: 10px;
 
 }
 
-#left
+/*#left
 {
     float: left;
     width: 40%;
@@ -99,7 +102,7 @@ div
 {
     background-color: pink;
     border-radius: 30%;
-}
+}*/
 
 /*.heart
 {   position: absolute;
@@ -153,7 +156,7 @@ div
 {
     display: flex;
     flex-direction: column;
-}*/
+}
 
 #pink
 {   
@@ -173,46 +176,51 @@ div
     height: 100px;
     display: flex;
     flex-grow: 1;
-}
+}*/
 
 .container
 {
     color: #e7eeec;
+    border-color: #e7eeec;
     font-size: 40px;
+    font-family: 'Cairo', sans-serif;
     position: relative;
-    width: 100%;
+    width: auto;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-template-areas:
-    "header1 header2"
-    "content1 content2 content3 content4"
-    "content5 content6 content7 content8"
-    "content9 content10 content11 content12"
-    "footer footer footer footer";
+    "header header header header header"
+    "content1 content2 content3 content4 content13"
+    "content5 content6 content7 content8 content14"
+    "content9 content10 content11 content12 content15"
+    "footer footer footer footer footer";
     justify-items: center;
     text-align: center;
 }
 
 .freespace
 {
-    grid-area: content1;
+    grid-area: content3;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
 
 .empty1
 {
-    grid-area: content5;
+    grid-area: content7;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
 
 .empty2
 {
-    grid-area: content9;
+    grid-area: content11;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
 
 .artportfolio
@@ -220,30 +228,118 @@ div
     grid-area: content2;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
 
 .artcommissions
 {
-    grid-area: content10;
+    grid-area: content6;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
 
 .spicyart
 {
-    grid-area: container6;
+    grid-area: content10;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
 
 .webport
 {
-    grid-area: container3;
+    grid-area: content4;
+    width: 100%;
+    height: auto;
+    padding: 6px;
 }
 
 .webcomm
 {
-    grid-area: container11;
+    grid-area: content8;
     width: 100%;
     height: auto;
+    padding: 6px;
 }
+
+.webtemplates
+{
+    grid-area: content12;
+    width: 100%;
+    height: auto;
+    padding: 6px;
+}
+
+.container2
+{
+    color: #e7eeec;
+    border-color: #e7eeec;
+    font-size: 20px;
+    font-family: 'Cairo', sans-serif;
+    position: relative;
+    left: 25%;
+    width: 50%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+    "content1 content2 content3 content4"
+    "content5 content6 content7 content8 content9";
+    justify-items: center;
+    text-align: center;
+}
+
+.about
+{
+    grid-area: content1;
+    width: 50%;
+    height: auto;
+}
+
+.faq
+{
+    grid-area: content2;
+    width: 50%;
+    height: auto;
+}
+
+.pricing
+{
+    grid-area: content3;
+    width: 50%;
+    height: auto;
+}
+
+.contact
+{
+    grid-area: content4;
+    width: 50%;
+    height: auto;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    grid-area: content6;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    grid-area: content7;
+  }
+
+  .fa-instragram {
+    background: #a955ee;
+    color: white;
+    grid-area: content8;
+  }
