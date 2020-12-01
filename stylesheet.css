@@ -174,3 +174,29 @@ div
     display: flex;
     flex-grow: 1;
 }
+
+.container
+{
+    color: #e7eeec;
+    font-size: 40px;
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+    "header1 header2"
+    "content1 content2 content3 content4"
+    "content5 content6 content7 content8"
+    "content9 content10 content11 content12"
+    "footer footer footer footer";
+    justify-items: center;
+    text-align: center;
+}
+
+.artportfolio
+{
+    grid-area: content2;
+    width: 100%;
+    height: auto;
+}
