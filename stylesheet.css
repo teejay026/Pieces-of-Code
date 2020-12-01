@@ -1,7 +1,7 @@
 
 html 
 {
-    background: black;
+    background: rgb(34, 34, 34);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -10,9 +10,9 @@ html
 }
 h1 
 {
-    color: #fa0680;
+    color: #e7eeec;
     position: relative;
-    text-shadow: 5px 5px 5px rgb(175, 13, 108);
+    text-shadow: 5px 5px 5px rgb(152, 218, 187);
     font-size: 70px;
     font-family: 'Anton', sans-serif;
     text-align: center;
@@ -20,7 +20,7 @@ h1
 
 p 
 {
-    color: whitesmoke;
+    color: #e7eeec;
     font-size: 40px;
     font-style: italic;
     position: relative;
@@ -34,7 +34,7 @@ body
 
 footer
 {
-    color: whitesmoke;
+    color: #e7eeec;
     text-align: center; 
     position: relative;
     top: 100px;
@@ -80,7 +80,7 @@ form
     font-size: 14px;
     position: relative;
     text-align: center;
-    color: whitesmoke;
+    color: #e7eeec;
 }
 
 div 
