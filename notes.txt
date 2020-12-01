@@ -1,0 +1,6 @@
+	<form>
+		<p2>Are you over 18?</p2>
+		<label for="dog">I said ARE YOU OVER 18?</label>
+		<input type="text" id="dog" name="dog">
+		<input type="submit" name="submit" value="Submit">
+	</form>
