@@ -200,3 +200,29 @@ div
     width: 100%;
     height: auto;
 }
+
+.artcommissions
+{
+    grid-area: content10;
+    width: 100%;
+    height: auto;
+}
+
+.spicyart
+{
+    grid-area: container6;
+    width: 100%;
+    height: auto;
+}
+
+.webport
+{
+    grid-area: container3;
+}
+
+.webcomm
+{
+    grid-area: container11;
+    width: 100%;
+    height: auto;
+}
