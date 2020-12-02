@@ -323,7 +323,9 @@ div
     height: auto;
 }
 
-.work1
+img 
 {
-    image-resolution: 160px;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
 }
