@@ -323,4 +323,7 @@ div
     height: auto;
 }
 
-
+.work1
+{
+    image-resolution: 160px;
+}
