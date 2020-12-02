@@ -193,15 +193,14 @@ div
     position: relative;
     width: auto;
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
     grid-template-areas:
-    "header header header header header"
     "content1 content2 content3 content4 content13"
     "content5 content6 content7 content8 content14"
     "content9 content10 content11 content12 content15"
-    "footer footer footer footer footer";
-    justify-items: center;
+   ;
+    justify-content: center;
     text-align: center;
 }
 
@@ -281,66 +280,47 @@ div
 {
     color: #e7eeec;
     border-color: #e7eeec;
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Cairo', sans-serif;
     position: relative;
     left: 25%;
     width: 50%;
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-areas:
     "content1 content2 content3 content4 content10 content11" 
     "content12 content13 content14 content15 content16 content17";
-    justify-items: center;
+    justify-content: center;
     text-align: center;
 }
 
 .about
 {
-    grid-area: content2;
+    grid-area: content13;
     width: 100%;
     height: auto;
 }
 
 .faq
 {
-    grid-area: content3;
+    grid-area: content14;
     width: 100%;
     height: auto;
 }
 
 .pricing
 {
-    grid-area: content4;
+    grid-area: content15;
     width: 100%;
     height: auto;
 }
 
 .contact
 {
-    grid-area: content10;
+    grid-area: content16;
     width: 100%;
     height: auto;
 }
 
-.fa {
-    padding: 20px;
-    font-size: 20ox;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
 
-  .fa-facebook {
-    background: #3B5998;
-    
-    color: white;
-    grid-area: content14;
-  }
-
-  .fa-twitter {
-    background: #55ACEE;
-    color: white;
-    grid-area: content15;
-  }
