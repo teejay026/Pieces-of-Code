@@ -28,6 +28,10 @@ p
     text-align: center;
 }
 
+form
+{
+
+}
 a
 {
     color: #e7eeec;
@@ -334,4 +338,44 @@ img
 {
     height: 150px;
     width: 120px;
+}
+
+.container3
+{
+    color: #e7eeec;
+    border-color: #e7eeec;
+    font-size: 20px;
+    font-family: 'Cairo', sans-serif;
+    position: relative;
+    left: 25%;
+    width: 50%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+    "content1 content2 content3" 
+    "content12 content13 content14";
+    justify-content: center;
+    text-align: center;
+}
+
+.dog
+{
+    grid-area: content1;
+    width: 100%;
+    height: auto; 
+}
+
+.dog2
+{
+    grid-area: content2;
+    width: 100%;
+    height: auto; 
+}
+
+.dog3
+{
+    grid-area: content3;
+    width: 100%;
+    height: auto; 
 }
