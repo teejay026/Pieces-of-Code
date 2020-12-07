@@ -4,9 +4,9 @@ html
     background: rgb(34, 34, 34);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
+    width: auto;
     height: 100%;
-    margin: auto;
+    margin: 10px 15px;
 }
 
 h1 
@@ -53,7 +53,7 @@ footer
     color: #e7eeec;
     text-align: center; 
     font-family: 'Cairo', sans-serif;
-    position: absolute;
+    position: relative;
     bottom: 10px;
     width: 100%;
 
@@ -62,7 +62,6 @@ footer
 .nav-bar
 {
     color: #e7eeec;
-    border-color: #e7eeec;
     font-size: 20px;
     font-family: 'Cairo', sans-serif;
     position: relative;
@@ -309,7 +308,7 @@ div
     border-color: #e7eeec;
     font-size: 20px;
     font-family: 'Cairo', sans-serif;
-    position: fixed;
+    position: relative;
     bottom: 15px;
     margin: auto;
     width: 100%;
