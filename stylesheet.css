@@ -279,7 +279,7 @@ textarea {
     resize: none;
   }
 
-  input[type=submit]
+  input[type=button]
   {
       background-color: #ccc;
       font-family: 'Cairo', sans-serif;

@@ -31,12 +31,34 @@
 		<input type="text" required id="email" name="email"><br>
 
 		<label for="duedate">Due by:</label>
-		<input type="date" id="duedate" name="duedate"><br>
+		<input onchange="dateAlert()"type="date" id="duedate" name="duedate"><br>
+			<script>
+				function dateAlert() {
+				var GivenDate = document.getElementById("duedate").value;
+				var CurrentDate = new Date();
+				GivenDate = new Date(GivenDate);
 
-		<label for="">Description:</label><br>
+				if(GivenDate > CurrentDate){
+					alert("Please note, commissions required in less than 5 days incur a rush fee.");
+				}else{
+					alert("Due date cannot be today's date or in the past.");
+				}
+			}
+			</script>
+		<label for="description">Description:</label><br>
 		<textarea type="text" required id="subject" name="subject"></textarea><br>
-
-		<input type="submit" name="submit" id="Submit"></input>
+		<button  onclick="myFirst()" type="button" name="submit" id="Submit">Submit</button>
+			<script>
+			function myFirst() {
+				var Name = document.getElementById("name").value;
+				var d = document.getElementById("duedate").value;
+				var Email = document.getElementById("email").value;
+				var Description = document.getElementById("subject").value;
+				
+				if ()
+					alert("Hi " + Name + ", you are requesting a commission be completed by " + d +"?")
+				}
+			</script>
 	</div>
 	</form>
 	
