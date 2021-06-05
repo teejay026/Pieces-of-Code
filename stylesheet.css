@@ -1,4 +1,4 @@
-@media only screen and (min-width: 1024px) and (max-width: 1199px){
+
     body {
         background-color: white;
         display: block;
@@ -85,7 +85,6 @@
         margin: 0 0 15px 0;
     }
 
-}
 
 @media only screen and (min-width: 768px) and (max-width: 1023px){
     body {
