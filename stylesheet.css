@@ -33,15 +33,14 @@ body {
         background-color: #111;
     }
 
-    .div1 {
+    .div {
         display: block;
-        background-color: #333;
         padding: 15px 18px;
     }
 
     p {
         text-align: justify;
-        color: white;
+        color: black;
         margin: 0 0 15px 0;
     }
 
