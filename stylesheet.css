@@ -217,7 +217,12 @@
         color: black;
         margin: 0 0 15px 0;
     }
-
+    .dark,
+    .dark * {
+        background-color: #222;
+        color: #e6e6e6;
+        border-color: #e6e6e6;
+    }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 767px){
@@ -329,7 +334,12 @@
         color: black;
         margin: 0 0 15px 0;
     }
-
+    .dark,
+    .dark * {
+        background-color: #222;
+        color: #e6e6e6;
+        border-color: #e6e6e6;
+    }
 }
 
 @media only screen and (min-width: 0px) and (max-width: 479px){
@@ -441,7 +451,12 @@
         color: black;
         margin: 0 0 5px 0;
     }
-
+    .dark,
+    .dark * {
+        background-color: #222;
+        color: #e6e6e6;
+        border-color: #e6e6e6;
+    }
 }   
 
 .dark,
