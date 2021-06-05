@@ -5,7 +5,7 @@
         max-width: 900px;
     }
 
-    h1 {
+    h2 {
         position: center;
         display: block;
         margin: auto;
@@ -27,7 +27,7 @@
     li a {
         display: block;
         color: white;
-        font-family: 'Anton';
+        font-family: serif;
         text-align: center;
         padding: 14px 16px; 
         text-decoration: none;
@@ -60,7 +60,8 @@
 
     p {
         text-align: justify;
-        font-family: 'Anton';
+        font-family: serif;
+        line-height: 2px;
         color: black;
         margin: 0 0 15px 0;
     }
