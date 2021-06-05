@@ -97,7 +97,7 @@
     .div5 {
         display: block;
         float: left;
-        padding: 15px 18px;
+        padding: 15px 18px 15px 18px;
         max-width: 600px;
     }
 
@@ -180,35 +180,35 @@
     .div1 {
         display: block;
         float: left;
-        padding: 15px 18px;
+        padding: 15px 18px 15px 18px;
         max-width: 400px;
     }
 
     .div2 {
         display: block;
         float: right;
-        padding: 15px 18px;
+        padding: 15px 18px 15px 18px;
         max-width: 400px;
     }
 
     .div3 {
         display: block;
         float: left;
-        padding: 15px 18px;
+        padding: 15px 18px 15px 18px;
         max-width: 400px;
     }
 
     .div4 {
         display: block;
         float: right;
-        padding: 15px 18px;
+        padding: 15px 18px 15px 18px;
         max-width: 400px;
     }
 
     .div5 {
         display: block;
         float: left;
-        padding: 15px 18px;
+        padding: 15px 18px 15px 18px;
         max-width: 400px;
     }
 
