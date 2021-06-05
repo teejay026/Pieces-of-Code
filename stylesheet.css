@@ -8,7 +8,8 @@
     h2 {
         display: block;
         margin: auto;
-        padding: 20px 22px;
+        padding: 0;
+        max-width: 600px;
     }
 
     ul {
@@ -38,7 +39,7 @@
 
     .div1 {
         display: block;
-       float: left;
+        float: left;
         padding: 15px 18px;
         max-width: 600px;
     }
