@@ -35,6 +35,9 @@ body {
 
     .div {
         display: block;
+        position: absolute;
+        top: 50%;
+        width: 100%;
         padding: 15px 18px;
         max-width: 600px;
     }
