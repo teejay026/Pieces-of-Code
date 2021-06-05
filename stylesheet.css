@@ -43,14 +43,14 @@ body {
 
     .div2 {
         display: block;
-        margin: auto;
+        float: right;
         padding: 15px 18px;
         max-width: 600px;
     }
 
     .div3 {
         display: block;
-        float: right;
+        float: left;
         padding: 15px 18px;
         max-width: 600px;
     }
