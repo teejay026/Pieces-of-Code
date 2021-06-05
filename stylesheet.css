@@ -36,6 +36,7 @@ body {
     .div {
         display: block;
         padding: 15px 18px;
+        max-width: 600px;
     }
 
     p {
