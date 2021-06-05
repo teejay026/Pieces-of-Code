@@ -1,6 +1,7 @@
 body {
     background-color: white;
-    max-width: 1322px;
+    display: block;
+    max-width: 1200px;
 }
 
     h1 {
@@ -10,7 +11,6 @@ body {
 
     ul {
         list-style-type: none;
-        position: center;
         margin: 0;
         padding: 0;
         overflow: hidden;
@@ -31,5 +31,17 @@ body {
 
     li a:hover {
         background-color: #111;
+    }
+
+    .div1 {
+        display: block;
+        background-color: #333;
+        padding: 15px 18px;
+    }
+
+    p {
+        text-align: justify;
+        color: white;
+        margin: 0 0 15px 0;
     }
 
