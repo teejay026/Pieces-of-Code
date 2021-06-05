@@ -3,4 +3,10 @@
     body {
         background-color: blue;
     }
+
+    .nav {
+        float: none;
+        width: 100%;
+    }
+
 }
