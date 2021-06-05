@@ -1,3 +1,4 @@
+@media only screen and (min-width: 1024px) and (max-width: 1199px){
     body {
         background-color: white;
         display: block;
@@ -83,4 +84,274 @@
         color: black;
         margin: 0 0 15px 0;
     }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+    body {
+        background-color: white;
+        display: block;
+        margin: auto;
+        max-width: 700px;
+    }
+
+    header {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bold;
+        padding: 0 0 20px 0;
+    }
+
+    ul {
+        list-style-type: none;
+        position: sticky;
+        top: 0;
+        margin: auto;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        padding: 14px 16px; 
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: #111;
+    }
+
+    .div1 {
+        display: block;
+        float: left;
+        padding: 15px 18px;
+        max-width: 400px;
+    }
+
+    .div2 {
+        display: block;
+        float: right;
+        padding: 15px 18px;
+        max-width: 400px;
+    }
+
+    .div3 {
+        display: block;
+        float: left;
+        padding: 15px 18px;
+        max-width: 400px;
+    }
+
+    .div4 {
+        display: block;
+        float: right;
+        padding: 15px 18px;
+        max-width: 400px;
+    }
+
+    .div5 {
+        display: block;
+        float: left;
+        padding: 15px 18px;
+        max-width: 400px;
+    }
+
+    p {
+        text-align: justify;
+        font-family: 'Dosis', sans-serif;
+        color: black;
+        margin: 0 0 15px 0;
+    }
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+    body {
+        background-color: white;
+        display: block;
+        margin: auto;
+        max-width: 600px;
+    }
+
+    header {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bold;
+        padding: 0 0 20px 0;
+    }
+
+    ul {
+        list-style-type: none;
+        position: sticky;
+        top: 0;
+        margin: auto;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        padding: 14px 16px; 
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: #111;
+    }
+
+    .div1 {
+        display: block;
+        float: left;
+        padding: 15px 18px;
+        max-width: 300px;
+    }
+
+    .div2 {
+        display: block;
+        float: right;
+        padding: 15px 18px;
+        max-width: 200px;
+    }
+
+    .div3 {
+        display: block;
+        float: left;
+        padding: 15px 18px;
+        max-width: 200px;
+    }
+
+    .div4 {
+        display: block;
+        float: right;
+        padding: 15px 18px;
+        max-width: 300px;
+    }
+
+    .div5 {
+        display: block;
+        float: left;
+        padding: 15px 18px;
+        max-width: 300px;
+    }
+
+    p {
+        text-align: justify;
+        font-family: 'Dosis', sans-serif;
+        color: black;
+        margin: 0 0 15px 0;
+    }
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 479px){
+    body {
+        background-color: white;
+        display: block;
+        margin: auto;
+        max-width: 400px;
+    }
+
+    header {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bold;
+        padding: 0 0 10px 0;
+    }
+
+    ul {
+        list-style-type: none;
+        position: sticky;
+        top: 0;
+        margin: auto;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+    li a {
+        display: block;
+        color: white;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        padding: 4px 6px; 
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: #111;
+    }
+
+    .div1 {
+        display: block;
+        float: left;
+        padding: 5px 8px;
+        max-width: 150px;
+    }
+
+    .div2 {
+        display: block;
+        float: right;
+        padding: 15px 18px;
+        max-width: 150px;
+    }
+
+    .div3 {
+        display: block;
+        float: left;
+        padding: 5px 8px;
+        max-width: 150px;
+    }
+
+    .div4 {
+        display: block;
+        float: right;
+        padding: 5px 8px;
+        max-width: 150px;
+    }
+
+    .div5 {
+        display: block;
+        float: left;
+        padding: 5px 8px;
+        max-width: 150px;
+    }
+
+    p {
+        text-align: justify;
+        font-family: 'Dosis', sans-serif;
+        color: black;
+        margin: 0 0 5px 0;
+    }
+
+}   
+    
 
