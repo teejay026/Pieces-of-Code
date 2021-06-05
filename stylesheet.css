@@ -11,7 +11,7 @@ body {
 
     ul {
         list-style-type: none;
-        margin: 0;
+        margin: auto;
         padding: 0;
         overflow: hidden;
         background-color: #333;
@@ -35,22 +35,21 @@ body {
 
     .div1 {
         display: block;
-        text-align: center;
-        width: 100%;
+        margin: auto;
         padding: 15px 18px;
         max-width: 600px;
     }
 
     .div2 {
         display: block;
-        width: 100%;
+        margin: auto;
         padding: 15px 18px;
         max-width: 600px;
     }
 
     .div3 {
         display: block;
-        width: 100%;
+        margin: auto;
         padding: 15px 18px;
         max-width: 600px;
     }
