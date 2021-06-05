@@ -44,7 +44,7 @@
     }
 
     .active {
-       background-color: blanchedalmond; 
+       background-color: rgb(224, 184, 125); 
     }
     .div1 {
         display: block;
@@ -136,7 +136,7 @@
     }
 
     .active {
-       background-color: blanchedalmond; 
+       background-color:  rgb(224, 184, 125); 
     }
 
     .div1 {
@@ -229,7 +229,7 @@
     }
 
     .active {
-       background-color: blanchedalmond; 
+       background-color:  rgb(224, 184, 125); 
     }
 
     .div1 {
@@ -322,40 +322,40 @@
     }
 
     .active {
-       background-color: blanchedalmond; 
+       background-color:  rgb(224, 184, 125); 
     }
 
     .div1 {
         display: block;
-        float: left;
+        margin: auto;
         padding: 5px 8px;
         max-width: 150px;
     }
 
     .div2 {
         display: block;
-        float: right;
+        margin: auto;
         padding: 15px 18px;
         max-width: 150px;
     }
 
     .div3 {
         display: block;
-        float: left;
+        margin: auto;
         padding: 5px 8px;
         max-width: 150px;
     }
 
     .div4 {
         display: block;
-        float: right;
+        margin: auto;
         padding: 5px 8px;
         max-width: 150px;
     }
 
     .div5 {
         display: block;
-        float: left;
+        margin: auto;
         padding: 5px 8px;
         max-width: 150px;
     }
