@@ -40,6 +40,7 @@
         top: 0;
         margin: auto;
         padding: 0;
+        border: 1px solid white;
         overflow: hidden;
         background-color: #333;
     }
