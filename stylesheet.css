@@ -367,7 +367,7 @@
         padding: 3px;
         margin-left: 5px;
     }
-    
+
     ul {
         list-style-type: none;
         position: sticky;
@@ -443,5 +443,11 @@
     }
 
 }   
-    
+
+.dark,
+.dark * {
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+}
 

@@ -1,10 +1,9 @@
-<script id="alert"> 
-var Name = document.getElementById("name").value;
-document.getElementById("name").value = text;
-var DueDate = document.getElementById("duedate").value;
-document.getElementById("duedate").value = date;
-alert("Hi " + dog + ", you are requesting a commission be completed by " + duedate + "?")
-    )
-
-</script>
-
+$( ".inner-switch" ).on("click", function() {
+    if( $( "body" ).hasClass( "dark" )) {
+      $( "body" ).removeClass( "dark" );
+      $( ".inner-switch" ).text( "OFF" );
+    } else {
+      $( "body" ).addClass( "dark" );
+      $( ".inner-switch" ).text( "ON" );
+    }
+});
