@@ -54,6 +54,7 @@
         font-family: 'Dosis', sans-serif;
         font-weight: bold;
         text-align: center;
+        border: 1px solid white;
         padding: 14px 16px; 
         text-decoration: none;
     }
