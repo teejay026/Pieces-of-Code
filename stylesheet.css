@@ -221,8 +221,8 @@
     .dark,
     .dark *:not(.active) {
         background-color: #222;
-        color: #e6e6e6;
-        border-color: #e6e6e6;
+        color: #e7e7e7;
+        border-color: #e7e7e7;
     }
 }
 
@@ -338,8 +338,8 @@
     .dark,
     .dark *:not(.active) {
         background-color: #222;
-        color: #e6e6e6;
-        border-color: #e6e6e6;
+        color: #e7e7e7;
+        border-color: #e7e7e7;
     }
 }
 
@@ -455,15 +455,15 @@
     .dark,
     .dark * {
         background-color: #222;
-        color: #e6e6e6;
-        border-color: #e6e6e6;
+        color: #e7e7e7;
+        border-color: #e7e7e7;
     }
 }   
 
 .dark,
 .dark *:not(.active) {
     background-color: #222;
-    color: #e6e6e6;
-    border-color: #e6e6e6;
+    color: #e7e7e7;
+    border-color: #e7e7e7;
 }
 
