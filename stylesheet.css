@@ -10,6 +10,7 @@ body {
 
     ul {
         list-style-type: none;
+        position: relative;
         margin: 0;
         padding: 0;
         overflow: hidden;
@@ -17,7 +18,7 @@ body {
     }
 
     li {
-        float: inline-start;
+        float: none;
     }
 
     li a {
