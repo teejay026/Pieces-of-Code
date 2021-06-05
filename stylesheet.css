@@ -33,9 +33,23 @@ body {
         background-color: #111;
     }
 
-    .div {
+    .div1 {
         display: block;
-        position: absolute;
+        text-align: center;
+        width: 100%;
+        padding: 15px 18px;
+        max-width: 600px;
+    }
+
+    .div2 {
+        display: block;
+        width: 100%;
+        padding: 15px 18px;
+        max-width: 600px;
+    }
+
+    .div3 {
+        display: block;
         width: 100%;
         padding: 15px 18px;
         max-width: 600px;
