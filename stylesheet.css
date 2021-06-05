@@ -1,6 +1,7 @@
 body {
     background-color: white;
     display: block;
+    margin: auto;
     max-width: 1200px;
 }
 
