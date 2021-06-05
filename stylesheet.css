@@ -219,7 +219,7 @@
         margin: 0 0 15px 0;
     }
     .dark,
-    .dark * {
+    .dark *:not(.active) {
         background-color: #222;
         color: #e6e6e6;
         border-color: #e6e6e6;
@@ -336,7 +336,7 @@
         margin: 0 0 15px 0;
     }
     .dark,
-    .dark * {
+    .dark *:not(.active) {
         background-color: #222;
         color: #e6e6e6;
         border-color: #e6e6e6;
