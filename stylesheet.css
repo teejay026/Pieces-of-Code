@@ -1,6 +1,6 @@
 
     body {
-        background-color: white;
+        background-color: #e7e7e7;
         display: block;
         margin: auto;
         max-width: 900px;
@@ -40,7 +40,7 @@
         top: 0;
         margin: auto;
         padding: 0;
-        border: 1px solid white;
+        border: 1px solid  #e7e7e7;
         overflow: hidden;
         background-color: #333;
     }
@@ -51,7 +51,7 @@
 
     li a {
         display: block;
-        color: white;
+        color:  #e7e7e7;
         font-family: 'Dosis', sans-serif;
         font-weight: bold;
         text-align: center;
@@ -112,7 +112,7 @@
 
 @media only screen and (min-width: 768px) and (max-width: 1023px){
     body {
-        background-color: white;
+        background-color:  #e7e7e7;
         display: block;
         margin: auto;
         max-width: 700px;
@@ -161,7 +161,7 @@
 
     li a {
         display: block;
-        color: white;
+        color:  #e7e7e7;
         font-family: 'Dosis', sans-serif;
         font-weight: bold;
         text-align: center;
@@ -228,7 +228,7 @@
 
 @media only screen and (min-width: 480px) and (max-width: 767px){
     body {
-        background-color: white;
+        background-color:  #e7e7e7;
         display: block;
         margin: auto;
         max-width: 600px;
@@ -278,7 +278,7 @@
 
     li a {
         display: block;
-        color: white;
+        color:  #e7e7e7;
         font-family: 'Dosis', sans-serif;
         font-weight: bold;
         text-align: center;
@@ -345,7 +345,7 @@
 
 @media only screen and (min-width: 0px) and (max-width: 479px){
     body {
-        background-color: white;
+        background-color:  #e7e7e7;
         display: block;
         margin: auto;
         max-width: 400px;
@@ -395,7 +395,7 @@
 
     li a {
         display: block;
-        color: white;
+        color:  #e7e7e7;
         font-family: 'Dosis', sans-serif;
         font-weight: bold;
         text-align: center;
