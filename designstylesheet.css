@@ -116,12 +116,14 @@
         padding: 20px;
         width: auto;
         text-align: center;
+        font-family: 'Dosis', sans-serif;
     }
 
     .price .grey {
         box-sizing: border-box;
         background-color: #e7e7e7;
         font-size: 20px;
+        font-family: 'Dosis', sans-serif;
     }
 
     .button {
@@ -130,17 +132,19 @@
         color: #e7e7e7;
         width: auto;
         padding: 10px 25px;
+        font-family: 'Dosis', sans-serif;
         text-align: center;
         text-decoration: none;
         font-size: 18px;
     }
-    
+
     .dark,
-    .dark *:not(.active) {
+    .dark *:not(.active, .button) {
         background-color: #222;
         color: #e7e7e7;
         border-color: #e7e7e7;
     }
+    
 @media only screen and (max-width: 600px) {
     .columns {
         width: 100%;
