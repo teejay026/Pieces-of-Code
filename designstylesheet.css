@@ -33,7 +33,7 @@
         margin-left: 5px;
     }
 
-    ul {
+    .nav-bar ul {
         list-style-type: none;
         position: sticky;
         top: 0;
@@ -44,11 +44,11 @@
         background-color: #333;
     }
 
-    li {
+    .nav-bar li {
         float: left;
     }
 
-    li a {
+    .nav-bar li a {
         display: block;
         color:  #e7e7e7;
         font-family: 'Dosis', sans-serif;
@@ -58,7 +58,7 @@
         text-decoration: none;
     }
 
-    li a:hover:not(.active) {
+    .nav-bar li a:hover:not(.active) {
         background-color: #111;
     }
 
