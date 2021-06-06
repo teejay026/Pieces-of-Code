@@ -75,6 +75,7 @@
     p {
         text-align: justify;
         font-family: 'Dosis', sans-serif;
+        line-height: 1.5;
         color: black;
         margin: 0 0 15px 0;
     }
@@ -216,6 +217,7 @@
         p {
             text-align: justify;
             font-family: 'Dosis', sans-serif;
+            line-height: 1.5;
             color: black;
             margin: 0 0 15px 0;
         }
@@ -366,6 +368,7 @@
         p {
             text-align: justify;
             font-family: 'Dosis', sans-serif;
+            line-height: 1.5;
             color: black;
             margin: 0 0 15px 0;
         }
