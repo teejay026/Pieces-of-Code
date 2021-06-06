@@ -305,14 +305,14 @@
         display: block;
         float: right;
         padding: 15px 18px 15px 18px;
-        max-width: 200px;
+        max-width: 300px;
     }
 
     .div3 {
         display: block;
         float: left;
         padding: 15px 18px 15px 18px;
-        max-width: 200px;
+        max-width: 300px;
     }
 
     .div4 {
