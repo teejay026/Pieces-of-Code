@@ -136,3 +136,8 @@
     color: #e7e7e7;
     border-color: #e7e7e7;
 }
+@media only screen and (max-width: 600px) {
+    .columns {
+        width: 100%;
+    }
+}
