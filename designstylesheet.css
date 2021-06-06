@@ -1,4 +1,6 @@
-
+* {
+    box-sizing: border-box;
+}
     body {
         background-color: #e7e7e7;
         display: block;
@@ -70,7 +72,7 @@
         display: block;
         float: left;
         padding: 15px 18px 15px 18px;
-        max-width: 600px;
+        max-width: 900px;
     }
 
     p {
@@ -78,10 +80,6 @@
         font-family: 'Dosis', sans-serif;
         color: black;
         margin: 0 0 15px 0;
-    }
-
-    * {
-        box-sizing: border-box;
     }
 
     .columns {
