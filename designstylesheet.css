@@ -452,7 +452,7 @@
             margin-right: auto;
             font-family: 'Dosis', sans-serif;
             font-weight: bold;
-            padding: 0 0 20px 0;
+            padding: 0 0 10px 0;
         }
     
         .switch {
@@ -496,7 +496,7 @@
             font-family: 'Dosis', sans-serif;
             font-weight: bold;
             text-align: center;
-            padding: 14px 16px; 
+            padding: 4px 6px; 
             text-decoration: none;
         }
     
@@ -510,7 +510,7 @@
         .div1 {
             display: block;
             float: left;
-            padding: 15px 18px 15px 18px;
+            padding: 5px 8px 5px 8px;
             max-width: 400px;
         }
     
@@ -518,7 +518,7 @@
             text-align: justify;
             font-family: 'Dosis', sans-serif;
             color: black;
-            margin: 0 0 15px 0;
+            margin: 0 0 5px 0;
         }
     
         .columns {
