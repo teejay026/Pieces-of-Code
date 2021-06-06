@@ -104,6 +104,7 @@
     .price .header {
         background-color: #111;
         color: #e7e7e7;
+        width: auto;
         font-family: 'Dosis', sans-serif;
         text-align: center;
         font-size: 25px;
@@ -112,6 +113,7 @@
     .price li {
         border-bottom: 1px solid #e7e7e7;
         padding: 20px;
+        width: auto;
         text-align: center;
     }
 
@@ -124,6 +126,7 @@
         background-color: rgb(187, 163, 128);
         border: none;
         color: #e7e7e7;
+        width: auto;
         padding: 10px 25px;
         text-align: center;
         text-decoration: none;
