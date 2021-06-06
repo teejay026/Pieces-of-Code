@@ -486,6 +486,7 @@
         }
     
         .nav-bar li {
+            display: block;
             float: left;
         }
     
